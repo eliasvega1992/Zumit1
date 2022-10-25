@@ -1,0 +1,10 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":6,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":4,"width":5,
+"data":[6419,6418,6418,6418,6418,6425,6424,6424,6424,6424,6065,6069,1583,6067,6065,5972,6076,1583,6076,5970,5966,5981,1583,5970,5937,6331,6334,1583,5952,5936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,606,654,0,0,0,614,598,598,0,620,621,622,623,0,622,623,0,0,129,0,0,0,0,137,0,0,606,607,0,606,607,614,615,0,614,615,622,623,0,622,623,630,631,0,630,631,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+null,
+null,
+null
+]
+}
